@@ -61,5 +61,6 @@ namespace tetris_game
             offset.Row = StartOffset.Row;
             offset.Column = StartOffset.Column;
         }
+        
     }
 }
