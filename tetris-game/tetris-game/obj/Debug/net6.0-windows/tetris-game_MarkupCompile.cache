@@ -1,5 +1,5 @@
 ﻿tetris-game
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\user\Documents\GitHub\tetris-game\tetris-game\tetris-game\App.xaml
 11407045341
 
-81636875193
+6-1837924894
 194-1951243044
 MainWindow.xaml;
 
-False
+True
 
