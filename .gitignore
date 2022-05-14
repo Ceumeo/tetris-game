@@ -4,3 +4,7 @@ tetris-game/.vs/tetris-game/DesignTimeBuild/.dtbcache.v2
 *.v2
 tetris-game/.vs/tetris-game/DesignTimeBuild/.dtbcache.v2
 tetris-game/.vs/tetris-game/DesignTimeBuild/.dtbcache.v2
+tetris-game/tetris-game/obj/Debug/net6.0-windows/tetris-game_MarkupCompile.i.cache
+tetris-game/tetris-game/obj/project.assets.json
+tetris-game/tetris-game/obj/project.nuget.cache
+tetris-game/tetris-game/obj/tetris-game.csproj.nuget.dgspec.json
