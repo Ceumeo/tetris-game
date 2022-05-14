@@ -42,7 +42,7 @@ namespace tetris_game
             {
                 NextBlock = RandomBlock();
             }
-            while(block.Id == NextBlock.Id);
+            while (block.Id == NextBlock.Id);
 
             return block;
         }
