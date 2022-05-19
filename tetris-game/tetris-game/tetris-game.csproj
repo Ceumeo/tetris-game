@@ -32,6 +32,8 @@
     <Content Include="Assets\Background.png">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Content>
+=======
+    <Content Include="Assets\Background.png" />
     <Content Include="Assets\Block-Empty.png" />
     <Content Include="Assets\Block-I.png" />
     <Content Include="Assets\Block-J.png" />
