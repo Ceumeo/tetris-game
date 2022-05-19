@@ -20,9 +20,11 @@ namespace tetris_game
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
+        
+
+        private void Window_KeyDown(object sender, KeyEventArgs e)
         {
-            InitializeComponent();
+
         }
     }
 }
