@@ -9,7 +9,6 @@ namespace tetris_game
     public class GameState
     {
         private Block currentBlock;
-        
 
         public Block CurrentBlock
         {
