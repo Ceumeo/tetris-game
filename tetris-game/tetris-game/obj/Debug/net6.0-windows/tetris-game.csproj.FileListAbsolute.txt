@@ -19,3 +19,4 @@ C:\Users\user\Documents\GitHub\tetris-game\tetris-game\tetris-game\obj\Debug\net
 C:\Users\user\Documents\GitHub\tetris-game\tetris-game\tetris-game\obj\Debug\net6.0-windows\tetris-game.pdb
 C:\Users\user\Documents\GitHub\tetris-game\tetris-game\tetris-game\obj\Debug\net6.0-windows\tetris-game.genruntimeconfig.cache
 C:\Users\user\Documents\GitHub\tetris-game\tetris-game\tetris-game\obj\Debug\net6.0-windows\ref\tetris-game.dll
+C:\Users\user\Documents\GitHub\tetris-game\tetris-game\tetris-game\obj\Debug\net6.0-windows\tetris-game_Content.g.cs
