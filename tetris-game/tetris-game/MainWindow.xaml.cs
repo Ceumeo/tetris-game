@@ -44,6 +44,7 @@ namespace tetris_game
             new BitmapImage(new Uri("Assets/Block-Z.png", UriKind.Relative)),
         };
 
+        
         public MainWindow()
         {
             InitializeComponent();
