@@ -174,7 +174,7 @@ namespace tetris_game
 
             foreach (Position p in CurrentBlock.TilePositions())
             {
-                drop = System.Math.Min(drop, TileDropDistance(p);
+                drop = System.Math.Min(drop, TileDropDistance(p));
             }
 
             return drop;
