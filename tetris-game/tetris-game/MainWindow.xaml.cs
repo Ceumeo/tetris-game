@@ -110,6 +110,7 @@ namespace tetris_game
                 gameState.MoveBlockDown();
                 Draw(gameState);
             }
+            GameOverMenu.Visibility = Visibility.Visible;
         }
 
         private void Window_KeyDown(object sender, KeyEventArgs e)
@@ -148,9 +149,11 @@ namespace tetris_game
             await GameLoop();
         }
 
-        private void PlayAgain_Click(object sender, RoutedCommand e)
+        private async void PlayAgain_Click(object sender, RoutedCommand e)
         {
-
+            gameState = new GameState();
+            GameOverMenu.Visibility = Visibility.Hidden;
+            await GameLoop();
         }
     }
 }
