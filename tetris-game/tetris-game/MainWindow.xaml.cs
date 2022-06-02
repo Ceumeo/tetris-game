@@ -162,6 +162,9 @@ namespace tetris_game
                 case Key.C:
                     gameState.HoldBlock();
                     break;
+                case Key.Space:
+                    gameState.DropBlock();
+                    break;
                 default:
                     return;
             }
