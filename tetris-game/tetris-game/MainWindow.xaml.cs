@@ -110,7 +110,7 @@ namespace tetris_game
             {
                 HoldImage.Source = blockImages[0];
             }
-            else
+            else  
             {
                 HoldImage.Source = blockImages[heldBlock.Id];
             }
